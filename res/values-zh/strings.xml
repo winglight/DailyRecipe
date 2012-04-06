@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天天菜谱</string>
+    <string name="mainpage">主页</string>
+    <string name="classpage">分类</string>
+    <string name="backMain">我确定!</string>
+    <string name="quitMain">退出</string>
+    <string name="aboutTitle">帮助</string>
+    <string name="saveThisRingtone">下载这首铃声</string>
+    <string name="playThisRingtone">播放这首铃声</string>
+    <string name="setRingtone">设置为来电铃声</string>
+    <string name="setMessageRingtone">设置为短信铃声</string>
+    <string name="browseFavorite">收藏</string>
+    <string name="sendEmail">发送 E-mail</string>
+    <string name="copyEmailAddr">复制 E-mail 地址</string>
+    <string name="setRingtoneSuccess">成功设置铃声</string>
+    <string name="setRingtoneFail">设置铃声失败</string>
+    <string name="downloadRingtoneSuccess">成功下载铃声</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Recipe</string>
+    <string name="mainpage">Main Page</string>
+    <string name="classpage">Category</string>
+    <string name="backMain">I am sure!</string>
+    <string name="quitMain">Quit</string>
+    <string name="aboutTitle">Help</string>
+    <string name="pref_last_page">lastPage</string>
+    <string name="pref_release_show">showRelease1.1</string>
+    <string name="pref_release_note">file:///android_asset/release_1.1.html</string>
+    <string name="saveThisRingtone">Download this music</string>
+    <string name="playThisRingtone">Play this music</string>
+    <string name="setRingtone">Set this music as ringtone</string>
+    <string name="setMessageRingtone">Save this music as message ringtone</string>
+    <string name="browseFavorite">Favorites</string>
+    <string name="sendEmail">Send E-mail</string>
+    <string name="copyEmailAddr">Copy E-mail Address</string>
+    <string name="setRingtoneSuccess">Success to set the ringtone</string>
+    <string name="setRingtoneFail">Failed to set the ringtone</string>
+    <string name="downloadRingtoneSuccess">Success to download the music</string>
+    
+</resources>
